@@ -14,3 +14,5 @@ of the issues, a one-on-one conversation will be held with the store manager. Wi
 investigation of sales variables and other factors like quantity, revenue, and profit analysis, the
 project is anticipated to answer the issues raised by the management. The project will perform a
 thorough analysis to identify the improvements required to boost income and reduce waste.
+
+Excel sheet has the data and the details how data has been analysed.
